@@ -5,6 +5,7 @@
   "isActive": true,
   "tags": [
     "Azure",
-    "C#"
+    "C#",
+    "Linq"
   ]
 }
