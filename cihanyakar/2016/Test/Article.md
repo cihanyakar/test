@@ -1,5 +1,3 @@
-An h1 header
-============
 
 Paragraphs are separated by a blank line.1
 
@@ -41,8 +39,7 @@ Unicode is supported. O
 ```
 
 
-An h2 header
-------------
+
 
 Here's a numbered list:
 
